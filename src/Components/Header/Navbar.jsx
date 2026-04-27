@@ -1,7 +1,7 @@
 
 import { CiMenuFries } from "react-icons/ci";
 import { MdOutlineCloseFullscreen } from "react-icons/md";
-import Scorpion from '../../assets/Scorpion.jpg'
+import Scorpion from '../../assets/LKS.jpg'
 import { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
 

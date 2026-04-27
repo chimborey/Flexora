@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import Scorpion from '../assets/Scorpion.jpg'
+import Scorpion from '../assets/LKS.jpg'
 import { FaFacebook } from "react-icons/fa";
 import { AiFillYoutube } from "react-icons/ai";
 import { FaGithub } from "react-icons/fa6";
