@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import Scorpion from '../assets/LKS.jpg'
+import CKC from '../assets/CKC.jpg'
 import { FaFacebook } from "react-icons/fa";
 import { AiFillYoutube } from "react-icons/ai";
 import { FaGithub } from "react-icons/fa6";
@@ -14,7 +14,7 @@ export default function Footer() {
                               {/* logo */}
                               <div data-aos='zoom-in' data-aos-delay='300' className=" flex flex-col space-y-3">
                                     <Link to="/" className=" flex items-center gap-1">
-                                          <img src={Scorpion} alt="Scorpion" className="h-9 w-9 rounded-full" />
+                                          <img src={CKC} alt="Scorpion" className="h-9 w-9 rounded-full" />
                                           <h3 className=" text-black text-xl font-bold capitalize">flex<span className=" text-blue-500">ora</span></h3>
                                     </Link>
                                     <p className=" text-sm text-gray-400"></p>

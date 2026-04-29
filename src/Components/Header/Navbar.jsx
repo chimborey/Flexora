@@ -1,7 +1,7 @@
 
 import { CiMenuFries } from "react-icons/ci";
 import { MdOutlineCloseFullscreen } from "react-icons/md";
-import Scorpion from '../../assets/LKS.jpg'
+import CKC from '../../assets/CKC.jpg'
 import { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
 
@@ -32,7 +32,7 @@ export default function Navbar() {
                   <nav className=" container h-14 flex justify-between items-center" data-aos='fade-down' data-aos-delay='600'>
                         {/* logo */}
                         <Link to="/" className=" flex items-center gap-1">
-                              <img src={Scorpion} alt="Scorpion" className="h-9 w-9 rounded-full" />
+                              <img src={CKC} alt="Scorpion" className="h-9 w-9 rounded-full" />
                               <h3 className=" text-black text-xl font-bold capitalize">flex<span className=" text-blue-500">ora</span></h3>
                         </Link>
                         {/* menuList */}
